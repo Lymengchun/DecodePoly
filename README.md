@@ -27,6 +27,8 @@
  ArrayList<LatLng> puntos = decodePoly.decodePoly("_izlhA~pvydF_{geC~{mZ_kwzCn`{nI");
 
  Log.d("Demo", "polyline list:"+puntos);
+ 
+ result: polyline list:[lat/lng: (90.0,-125.0), lat/lng: (90.0,-129.5), lat/lng: (90.0,175.47000000000003)]
 
   ```
   
