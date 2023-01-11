@@ -22,11 +22,11 @@
   
    > Step 3. Implement
  ```
-        DecodePoly decodePoly = new DecodePoly();
+DecodePoly decodePoly = new DecodePoly();
 
-        ArrayList<LatLng> puntos = decodePoly.decodePoly("_izlhA~pvydF_{geC~{mZ_kwzCn`{nI");
+ArrayList<LatLng> puntos = decodePoly.decodePoly("_izlhA~pvydF_{geC~{mZ_kwzCn`{nI");
 
-        Log.d("Demo", "polyline list:"+puntos);
+Log.d("Demo", "polyline list:"+puntos);
 
   ```
   
